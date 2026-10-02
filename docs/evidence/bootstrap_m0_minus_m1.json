@@ -1,0 +1,26 @@
+[
+  {
+    "metric": "brier",
+    "contrast": "M0 minus M1 (positive favors M1)",
+    "estimate": 0.0055898046674696155,
+    "ci_95": [
+      -0.03127711642656381,
+      0.042015201471730074
+    ],
+    "replicates": 2000,
+    "seed": 3315,
+    "date_blocks": 85
+  },
+  {
+    "metric": "rps",
+    "contrast": "M0 minus M1 (positive favors M1)",
+    "estimate": 0.005365700042866504,
+    "ci_95": [
+      -0.010215206149914795,
+      0.0216212510487171
+    ],
+    "replicates": 2000,
+    "seed": 3316,
+    "date_blocks": 85
+  }
+]

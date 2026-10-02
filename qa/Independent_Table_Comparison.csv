@@ -1,0 +1,121 @@
+Team,Field,NBC_published,CSV_rebuilt,Match
+Arsenal,Rank,1,1,True
+Arsenal,W,26,26,True
+Arsenal,D,7,7,True
+Arsenal,L,5,5,True
+Arsenal,GD,44,44,True
+Arsenal,Pts,85,85,True
+Man City,Rank,2,2,True
+Man City,W,23,23,True
+Man City,D,9,9,True
+Man City,L,6,6,True
+Man City,GD,42,42,True
+Man City,Pts,78,78,True
+Man United,Rank,3,3,True
+Man United,W,20,20,True
+Man United,D,11,11,True
+Man United,L,7,7,True
+Man United,GD,19,19,True
+Man United,Pts,71,71,True
+Aston Villa,Rank,4,4,True
+Aston Villa,W,19,19,True
+Aston Villa,D,8,8,True
+Aston Villa,L,11,11,True
+Aston Villa,GD,7,7,True
+Aston Villa,Pts,65,65,True
+Liverpool,Rank,5,5,True
+Liverpool,W,17,17,True
+Liverpool,D,9,9,True
+Liverpool,L,12,12,True
+Liverpool,GD,10,10,True
+Liverpool,Pts,60,60,True
+Bournemouth,Rank,6,6,True
+Bournemouth,W,13,13,True
+Bournemouth,D,18,18,True
+Bournemouth,L,7,7,True
+Bournemouth,GD,4,4,True
+Bournemouth,Pts,57,57,True
+Sunderland,Rank,7,7,True
+Sunderland,W,14,14,True
+Sunderland,D,12,12,True
+Sunderland,L,12,12,True
+Sunderland,GD,-6,-6,True
+Sunderland,Pts,54,54,True
+Brighton,Rank,8,8,True
+Brighton,W,14,14,True
+Brighton,D,11,11,True
+Brighton,L,13,13,True
+Brighton,GD,6,6,True
+Brighton,Pts,53,53,True
+Brentford,Rank,9,9,True
+Brentford,W,14,14,True
+Brentford,D,11,11,True
+Brentford,L,13,13,True
+Brentford,GD,3,3,True
+Brentford,Pts,53,53,True
+Chelsea,Rank,10,10,True
+Chelsea,W,14,14,True
+Chelsea,D,10,10,True
+Chelsea,L,14,14,True
+Chelsea,GD,6,6,True
+Chelsea,Pts,52,52,True
+Fulham,Rank,11,11,True
+Fulham,W,15,15,True
+Fulham,D,7,7,True
+Fulham,L,16,16,True
+Fulham,GD,4,-4,False
+Fulham,Pts,52,52,True
+Newcastle,Rank,12,12,True
+Newcastle,W,14,14,True
+Newcastle,D,7,7,True
+Newcastle,L,17,17,True
+Newcastle,GD,-2,-2,True
+Newcastle,Pts,49,49,True
+Everton,Rank,13,13,True
+Everton,W,13,13,True
+Everton,D,10,10,True
+Everton,L,15,15,True
+Everton,GD,-3,-3,True
+Everton,Pts,49,49,True
+Leeds,Rank,14,14,True
+Leeds,W,11,11,True
+Leeds,D,14,14,True
+Leeds,L,13,13,True
+Leeds,GD,-7,-7,True
+Leeds,Pts,47,47,True
+Crystal Palace,Rank,15,15,True
+Crystal Palace,W,11,11,True
+Crystal Palace,D,12,12,True
+Crystal Palace,L,15,15,True
+Crystal Palace,GD,-10,-10,True
+Crystal Palace,Pts,45,45,True
+Nott'm Forest,Rank,16,16,True
+Nott'm Forest,W,11,11,True
+Nott'm Forest,D,11,11,True
+Nott'm Forest,L,16,16,True
+Nott'm Forest,GD,-3,-3,True
+Nott'm Forest,Pts,44,44,True
+Tottenham,Rank,17,17,True
+Tottenham,W,10,10,True
+Tottenham,D,11,11,True
+Tottenham,L,17,17,True
+Tottenham,GD,-9,-9,True
+Tottenham,Pts,41,41,True
+West Ham,Rank,18,18,True
+West Ham,W,10,10,True
+West Ham,D,9,9,True
+West Ham,L,19,19,True
+West Ham,GD,-19,-19,True
+West Ham,Pts,39,39,True
+Burnley,Rank,19,19,True
+Burnley,W,4,4,True
+Burnley,D,10,10,True
+Burnley,L,24,24,True
+Burnley,GD,-37,-37,True
+Burnley,Pts,22,22,True
+Wolves,Rank,20,20,True
+Wolves,W,3,3,True
+Wolves,D,11,11,True
+Wolves,L,24,24,True
+Wolves,GD,-41,-41,True
+Wolves,Pts,20,20,True

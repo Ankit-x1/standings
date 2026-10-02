@@ -1,0 +1,73 @@
+{
+  "lambda_home": 1.5452952952952954,
+  "lambda_away": 0.42834138486312395,
+  "analytic_grid": [
+    0.652989336422604,
+    0.24731047308680715,
+    0.09970019049058913
+  ],
+  "analytic_skellam": [
+    0.6529893364267148,
+    0.24731047308387724,
+    0.09970019048940802
+  ],
+  "grid_skellam_max_abs_difference": 4.110711770977105e-12,
+  "same_seed_reproducible": true,
+  "stability": [
+    {
+      "runs": 1000,
+      "frequencies": [
+        0.662,
+        0.231,
+        0.107
+      ],
+      "max_abs_standardized_discrepancy": 1.1954663807243748,
+      "within_three_standard_errors": true
+    },
+    {
+      "runs": 5000,
+      "frequencies": [
+        0.6474,
+        0.2432,
+        0.1094
+      ],
+      "max_abs_standardized_discrepancy": 2.289320695987662,
+      "within_three_standard_errors": true
+    },
+    {
+      "runs": 10000,
+      "frequencies": [
+        0.6559,
+        0.2465,
+        0.0976
+      ],
+      "max_abs_standardized_discrepancy": 0.7009985417737645,
+      "within_three_standard_errors": true
+    },
+    {
+      "runs": 100000,
+      "frequencies": [
+        0.65121,
+        0.24913,
+        0.09966
+      ],
+      "max_abs_standardized_discrepancy": 1.3336113808401158,
+      "within_three_standard_errors": true
+    }
+  ],
+  "interpretation": "Frequency discrepancies are random Monte Carlo error; the 3-SE indicator is a diagnostic, not a deterministic pass promise.",
+  "season_simulations": 10000,
+  "simulation_boundary_date": "2026-01-01",
+  "simulation_training_rows": 190,
+  "simulation_remaining_rows": 190,
+  "points_conservation_ok": true,
+  "common_odds_sample": 280,
+  "odds_rows_excluded": 0,
+  "final_points_mae": 5.358054999999999,
+  "max_grid_tail": 9.668111977667593e-09,
+  "selected_fixture": {
+    "Date": "2026-01-03",
+    "HomeTeam": "Aston Villa",
+    "AwayTeam": "Nott'm Forest"
+  }
+}
