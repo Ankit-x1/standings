@@ -1,0 +1,8 @@
+# Direct dependency versions tested on Python 3.12; install after project setup.
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+matplotlib==3.11.2
+tabulate==0.10.0
+pytest==9.1.1
+openpyxl==3.1.5

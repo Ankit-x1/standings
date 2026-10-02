@@ -1,0 +1,7 @@
+{
+  "task_kind": "markdown-to-pdf",
+  "output": "pdf",
+  "signals": [],
+  "hard_constraints": ["Single PDF for Canvas; preserve all five required proposal sections and mathematical formulas"],
+  "content_features": {"code_blocks": 0, "defined_terms": 0, "portrait_images": 0}
+}

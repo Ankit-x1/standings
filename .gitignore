@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+
+# Generated analysis products and manual live logs
+outputs/*
+!outputs/.gitkeep
+
+# football-data.co.uk provider files are local coursework copies; do not commit or redistribute
+data/raw/*.csv
+
+# Internal document-build diagnostics and previews
+docs/proposal-pdf/review*/
+docs/proposal-pdf/*.log
+docs/proposal-pdf/*.verify.json
+qa/private/
+/docs/proposal-pdf/main.pdf
