@@ -49,7 +49,7 @@ Use **Python 3.11 or newer**, [VS Code](https://code.visualstudio.com/), and [Gi
 ### Windows PowerShell
 
 ```powershell
-git clone https://github.com/Ankit-x1/standings.git
+git clone --branch feat/math3315-premier-league-project https://github.com/Ankit-x1/standings.git
 cd standings
 py -3 -m venv .venv
 .\.venv\Scripts\Activate.ps1
@@ -69,7 +69,7 @@ Use that full Python path in place of `python` for later commands.
 ### macOS / Linux
 
 ```bash
-git clone https://github.com/Ankit-x1/standings.git
+git clone --branch feat/math3315-premier-league-project https://github.com/Ankit-x1/standings.git
 cd standings
 python3 -m venv .venv
 source .venv/bin/activate

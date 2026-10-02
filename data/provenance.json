@@ -4,7 +4,7 @@
     {
       "file": "data/raw/E0_2526.csv",
       "source_url": "https://www.football-data.co.uk/mmz4281/2526/E0.csv",
-      "retrieved_at_utc": "2026-10-02T22:18:00Z",
+      "retrieved_at_utc": "2026-10-02T22:17:31Z",
       "sha256": "3e3a8352f9ada6789c508d6ca184424421fed56a30400904a4a327c583407e62",
       "retrieval": "original browser download",
       "redistribution": "Not included in public GitHub; retain privately for coursework"
@@ -12,7 +12,7 @@
     {
       "file": "data/raw/E0_2627.csv",
       "source_url": "https://www.football-data.co.uk/mmz4281/2627/E0.csv",
-      "retrieved_at_utc": "2026-10-02T22:18:00Z",
+      "retrieved_at_utc": "2026-10-02T22:18:19Z",
       "sha256": "3024508e9d0236c9aaea42d0bc536acb62abbd52485b3b7a449a69f4577c6608",
       "retrieval": "full web extraction with CSV row separators restored",
       "redistribution": "Not included in public GitHub; retain privately for coursework"
