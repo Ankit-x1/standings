@@ -1,0 +1,12 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-9.1.1, pluggy-1.6.0
+rootdir: /home/ubuntu/standings
+configfile: pyproject.toml
+testpaths: tests
+plugins: anyio-4.15.1
+collected 38 items
+
+tests/test_live.py ............                                          [ 31%]
+tests/test_standings.py ..........................                       [100%]
+
+============================== 38 passed in 6.67s ==============================
